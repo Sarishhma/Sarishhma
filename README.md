@@ -1,13 +1,9 @@
 <!-- README.md -->
+<h1 align="center">
+  Hey there, I'm <span style="color:#f39ac7;">Sarishhma</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h1 align="center">✨ Hello, I'm Sarishhma ✨</h1>
-<p align="center">
-  🌼 Aspiring Web Developer | React | JavaScript | Creative Thinker 🌼
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+to+build+cool+things+💻;Let's+create+beautiful+UIs+together+🎨" />
-</p>
 
 ---
 
@@ -66,7 +62,7 @@ Currently diving into:
 
 ---
 
-## 🤝 Let’s Connect!
+## 🌸 Connect with Me
 
 Feel free to connect or collaborate 😊
 
