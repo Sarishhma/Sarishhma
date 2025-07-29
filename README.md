@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sarishhma!
 
-**Aspiring Web Developer | React & JavaScript Enthusiast | Lifelong Learner**
-
+**Aspiring Web Developer | React & JavaScript Enthusiast 
 ---
 
 🌟 *"Building the future, one line of code at a time."* 🌟
