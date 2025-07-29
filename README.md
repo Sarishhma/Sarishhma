@@ -1,58 +1,78 @@
-<!-- ✨🌸 Cute & Beautiful GitHub Profile README for Sarishhma 🌸✨ -->
+<!-- README.md -->
 
-<h1 align="center">
-  Hey there, I'm <span style="color:#f39ac7;">Sarishhma</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">✨ Hello, I'm Sarishhma ✨</h1>
+<p align="center">
+  🌼 Aspiring Web Developer | React | JavaScript | Creative Thinker 🌼
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=F39AC7&vCenter=true&center=true&width=435&lines=Aspiring+Web+Developer;React+%26+JS+Enthusiast;Lifelong+Learner+%F0%9F%8C%9F;Let's+build+something+amazing!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+to+build+cool+things+💻;Let's+create+beautiful+UIs+together+🎨" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Sarishhma%20Zimba-f39ac7?style=for-the-badge&logo=smugmug&logoColor=white">
-</p>
+## 🌟 About Me
+
+Hi there! I'm Sarishhma — a passionate and curious developer who loves building fun and useful things on the web. Whether it's a weather app, a to-do list, or a meme-based pickup line app, I'm always exploring and learning something new.
+
+I’m especially into:
+
+- 💻 **React.js** & JavaScript
+- 🎨 Crafting responsive, aesthetic UI/UX
+- 🌐 Exploring APIs & connecting the web
+- 🚀 Making my code cleaner and smarter every day
 
 ---
 
-<p align="center">
-  <b>🌸 "Coding dreams into reality, one pastel pixel at a time!" 🌸</b>
-</p>
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Tools & Misc |
+|---------|---------|---------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) | ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff) |
 
 ---
 
-## 🌼 About Me
+## 📦 My Projects
 
-- ✨ I’m a student and an <b>aspiring web developer</b> with a big love for all things <b>React</b> and <b>JavaScript</b>.
-- 💡 I enjoy turning creative ideas into <b>cute</b> and <b>colorful</b> web experiences.
-- 📚 Forever curious and always learning new things!
+Here are a few cool things I’ve worked on:
 
-## 💖 Tech Stack
+### ☁️ Weather App
+> Real-time weather updates for any city using OpenWeatherMap API, React Hooks, and styled cards.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffe066?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-ffb3c6?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-ffd6e0?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### ✅ Juice game
+> A simple but enjoyable game wher user can make different kinds of juice. Clean UI and fun interactions.
+
+### 💌 Pharmacy system
+> A web where user can login and sign up and add to cart the products they want to purchase.
 
 ---
 
-## 🌸 Connect with Me
+## 📚 I’m Learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarishmazimba/">
-    <img src="https://img.shields.io/badge/LinkedIn-sarishmazimba-f39ac7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Currently diving into:
+
+- 🔧 ..Net
+- 💡 UX Design Basics
+- 📱 React Native
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="200"/>
-</p>
+## 🌈 Fun Facts
 
-<p align="center">
-  <b>Let’s code with joy and sprinkle a little magic on the web! ✨💻🌈</b>
-</p>
+- ✨ I believe code should look as good as it works.
+- 🍰 I treat learning like baking—one layer at a time, sweet and satisfying.
+
+---
+
+## 🤝 Let’s Connect!
+
+Feel free to connect or collaborate 😊
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarishma-zimba-62508936a)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sarishma04@gmail.com)
+
+---
+
+<p align="center">✨ Thanks for stopping by! Keep coding and stay kind 🌸</p>
