@@ -40,7 +40,7 @@ Here are some projects demonstrating my skills:
 ## 📫 Contact Me
 
 - 📧 Email: sarishhma04@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/sarishhma](https://linkedin.com/in/sarishhma)  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/sarishma-zimba-62508936a/)  
 - 🐙 GitHub: [github.com/sarishhma](https://github.com/sarishhma)
 
 ---
