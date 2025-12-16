@@ -34,7 +34,7 @@ Here are some projects demonstrating my skills:
 - **Movie Search App (React + TMDb API)** – Dynamic search, filtering, and responsive UI.  
 - **Café Finder App** – Real-time location-based search with interactive maps.  
 
-*(Link to your GitHub repos here)*
+
 
 ---
 
