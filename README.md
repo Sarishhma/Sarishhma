@@ -39,7 +39,7 @@ Here are some projects demonstrating my skills:
 
 ## 📫 Contact Me
 
-- 📧 Email: sarishhma@example.com  
+- 📧 Email: sarishhma04@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/sarishhma](https://linkedin.com/in/sarishhma)  
 - 🐙 GitHub: [github.com/sarishhma](https://github.com/sarishhma)
 
