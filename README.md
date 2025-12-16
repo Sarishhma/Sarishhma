@@ -42,6 +42,7 @@ Here are some projects demonstrating my skills:
 - 📧 Email: sarishhma04@gmail.com  
 - 🌐 LinkedIn: [https://www.linkedin.com/in/sarishma-zimba-62508936a/)  
 - 🐙 GitHub: [github.com/sarishhma](https://github.com/sarishhma)
+- Portfolio:[https://ishma-portfolio.vercel.app/]
 
 ---
 
