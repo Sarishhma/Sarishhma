@@ -7,7 +7,7 @@ I love building **scalable and modern web applications** and learning new techno
 
 ## 💼 About Me
 
-- 🌱 Currently improving my skills in **React.js**, **Django**, **REST APIs**, **Tailwind CSS**, and **Vite**.  
+- 🌱 Currently improving my skills in **React.js**, **REST APIs**, **Tailwind CSS**, and **Vite**.  
 - 💻 Experienced in building **dynamic web applications** with clean, maintainable code.  
 - 🔭 Passionate about **frontend & backend integration**, responsive UI, and smooth user experiences.  
 - 📚 Lifelong learner: exploring modern web frameworks and tools.
