@@ -9,9 +9,9 @@ Full-stack web developer who enjoys building clean, functional web applications.
 |----------|---------|----------------|-------|
 | React/Vite | Node.js | MongoDB | Git |
 | TypeScript | Express | PostgreSQL *(learning)* | Vercel |
-| JavaScript | Hono | Prisma ORM *(learning)* | Postman |
-| | Django | | VS Code |
-|  | Python | | |
+| JavaScript | Django  | Prisma ORM *(learning)* | Postman |
+| | Python | | VS Code |
+
 
 
 ---
