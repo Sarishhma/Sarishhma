@@ -1,20 +1,13 @@
 # Hi, I'm Sarishma 👋
 
-Full-stack developer who enjoys building clean, functional web applications .
-
----
+Full-stack developer who enjoys building clean, functional web applications.
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Database & ORM | Tools & Other |
-|----------|---------|-----------------|----------------|
-| React / Vite | Node.js | PostgreSQL (Neon) | Git |
-| TypeScript/JavaScript | Express | MongoDB | Vercel · Railway |
-|Nextjs  | Fastify  | Prisma ORM | Postman |
-|  Python | 	Django| |  |
-
-
-
+- **Frontend:** React, Next.js, Vite, TypeScript, JavaScript
+- **Backend:** Node.js, Express, Fastify, Python, Django
+- **Database:** PostgreSQL (Neon), MongoDB, Prisma
+- **Tools:** Git, Postman, Vercel, Railway
 
 ## 📫 Let's Connect
 
