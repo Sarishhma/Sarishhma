@@ -23,7 +23,7 @@
   Thank you for visiting my page ❤️
 </p>
 <p align="center">
-  <sub>P.S.: If I followed you, it's because your project caught my interest.<br>
-  I really appreciate your work - it helps me discover something new. Thanks for that too. 🌱</sub>
+  <sub>P.S.: If I'm following you, it's because your project caught my eye and genuinely inspired me.<br>
+  I love seeing what other developers build. Thank you for sharing your work! 🌱✨</sub>
 </p>
 
