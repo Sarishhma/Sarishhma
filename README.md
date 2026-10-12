@@ -5,6 +5,9 @@
   I'd be happy to receive any feedback or code reviews that can help me improve .
 </p>
 <p align="center">
+  ⭐️ Feel free to follow me - I'd really appreciate your support!
+</p>
+<p align="center">
   <img src="bunny.svg" alt="A cute blinking bunny" width="240">
 </p>
 
