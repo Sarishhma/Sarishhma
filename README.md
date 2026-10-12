@@ -2,10 +2,7 @@
 <p align="center">
   I'm a full-stack developer 💻 who loves building clean, functional web apps ✨<br>
   I created this GitHub profile to share my projects, keep learning, and do what I love.<br>
-  I'd be happy to receive any feedback or code reviews that can help me improve 
-</p>
-<p align="center">
-  ⭐️ Feel free to follow me - I'd really appreciate your support!
+  I'd be happy to receive any feedback or code reviews that can help me improve .
 </p>
 <p align="center">
   <img src="bunny.svg" alt="A cute blinking bunny" width="240">
