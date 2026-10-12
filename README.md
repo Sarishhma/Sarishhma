@@ -5,10 +5,13 @@
   I'd be happy to receive any feedback or code reviews that can help me improve .
 </p>
 <p align="center">
-  ⭐️ Feel free to follow me - I'd really appreciate your support!
+  <img src="bunny.svg" alt="A cute blinking bunny" width="240">
 </p>
 <p align="center">
-  <img src="bunny.svg" alt="A cute blinking bunny" width="240">
+  Thank you for visiting my page ❤️
+</p>
+<p align="center">
+  <sub>P.S.: If I'm following you, it's because your project caught my eye and genuinely inspired me.
 </p>
 
 <p align="center">
@@ -17,13 +20,5 @@
   <b>Backend:</b> Node.js, Express, Fastify, Python, Django<br>
   <b>Database:</b> PostgreSQL (Neon), MongoDB, Prisma<br>
   <b>Tools:</b> Git, Postman, Vercel, Railway
-</p>
-
-<p align="center">
-  Thank you for visiting my page ❤️
-</p>
-<p align="center">
-  <sub>P.S.: If I'm following you, it's because your project caught my eye and genuinely inspired me.<br>
-  I love seeing what other developers build. Thank you for sharing your work! 🌱✨</sub>
 </p>
 
