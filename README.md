@@ -3,7 +3,7 @@
 <p align="center">
   I'm a full-stack developer 💻 who loves building clean, functional web apps ✨<br>
   I created this GitHub profile to share my projects, keep learning, and do what I love.<br>
-  I'd be happy to receive any feedback or code reviews that can help me improve 💪
+  I'd be happy to receive any feedback or code reviews that can help me improve 
 </p>
 
 <p align="center">
