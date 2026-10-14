@@ -15,13 +15,6 @@
 </p>
 
 ---
-### 🌱 Currently
-
-- Strengthening my backend development and software engineering skills.
-- Building and improving full-stack applications.
-- Learning through hands-on projects and open-source collaboration.
-
----
 
 <p align="center">
   Thanks for stopping by! ❤️
