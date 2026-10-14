@@ -15,23 +15,6 @@
 </p>
 
 ---
-
-### 🛠️ Tech Stack
-
-**Frontend**  
-React · Next.js · Vite · TypeScript · JavaScript · HTML · CSS
-
-**Backend**  
-Node.js · Express · Fastify · Python · Django
-
-**Databases & ORM**  
-PostgreSQL · Neon · MongoDB · Prisma
-
-**Tools & Platforms**  
-Git · GitHub · Postman · Vercel · Railway
-
----
-
 ### 🌱 Currently
 
 - Strengthening my backend development and software engineering skills.
